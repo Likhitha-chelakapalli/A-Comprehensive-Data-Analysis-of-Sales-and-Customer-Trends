@@ -49,3 +49,8 @@ This project offers a deep dive into customer and sales performance through a st
 ![Total Product Revenue by Month](screenshots/TRM.png)
 
 ---
+## 📄 👉 See the Full Report
+
+> 📝 Check out the full Power BI report and PDF summary for a comprehensive breakdown of insights and trends.  
+> 📍 *Files included in the repository:*  
+>[See FUll Report](Data Visualization.pdf)
