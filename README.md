@@ -42,6 +42,10 @@ This project offers a deep dive into customer and sales performance through a st
 
 ## 📷 Dashboard Preview
 
-> *(Insert screenshot of your Power BI dashboard here)*
+### 📌 Customer Distribution by Industry
+![Customer Distribution by Industry](screenshots/CBI.png)
+
+### 📌 Total Product Revenue by Month
+![Total Product Revenue by Month](screenshots/TRM.png)
 
 ---
